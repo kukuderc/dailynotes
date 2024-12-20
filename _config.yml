@@ -1,8 +1,8 @@
 name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+description: "Knowledge of living"
 
-avatar: https://pianfan.github.io/images/avatar.png
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: 
+favicon: 
 
 navigation:
   - name: 首页
@@ -18,9 +18,9 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: kukuderc@gmail.com
   facebook:
-  github: pianfan
+  github: kukuderc
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
