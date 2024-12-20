@@ -25,9 +25,9 @@ footer-links:
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 
 
-url: https://pianfan.github.io
+url: https://kukuderc.github.dailynotes
 
 permalink: /:title/
 paginate_path: /page:num/
