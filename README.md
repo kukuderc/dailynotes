@@ -1,3 +1,3 @@
-# pianfan.github.io
+# kukuderc.github.dailynotes
 
 My Personal Blog via GitHub
