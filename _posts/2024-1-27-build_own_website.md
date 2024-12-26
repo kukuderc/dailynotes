@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "消费篇"
+title: "艺术篇"
 date:   2024-12-20
-tags: [web]
+tags: [Art]
 comments: true
 author: RC
 ---
@@ -11,7 +11,7 @@ author: RC
 
 ## 目录
 
-- [衣物篇国标标准号](#衣物篇国标标准号)
+- [油画](#)
 - [2](#2)
 - [3](#3)
 - [4](#4)
@@ -21,8 +21,8 @@ author: RC
 - [8](#8)
 - [9](#9)
 
-### 衣物篇国标标准号
-  
+## 莫奈
+作品： seascape
 
 
 
