@@ -21,12 +21,13 @@ author: RC
 体重方面：me daily intake 每日减重需维持1854卡，正常维持体重为2054卡。超出就肥
 
 ### 焯水蔬菜
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vegetables Blanching Guide</title>
+    <title>蔬菜焯水指南</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -49,111 +50,118 @@ author: RC
     </style>
 </head>
 <body>
-    <h1>Vegetables Blanching Guide</h1>
+    <h1>蔬菜焯水指南</h1>
     <table>
         <thead>
             <tr>
-                <th>Vegetable Name</th>
-                <th>Reason for Blanching</th>
-                <th>Blanching Time</th>
-                <th>Recommended for Stir-Fry</th>
+                <th>蔬菜名称</th>
+                <th>焯水原因</th>
+                <th>焯水时间</th>
+                <th>是否适合热炒</th>
             </tr>
         </thead>
         <tbody>
             <tr>
-                <td>Spinach</td>
-                <td>Contains oxalic acid, blanching removes some of it to reduce the absorption of calcium.</td>
-                <td>1-2 minutes</td>
-                <td>Yes</td>
+                <td>菠菜</td>
+                <td>含有草酸，焯水可以去除部分草酸，减少影响钙的吸收。</td>
+                <td>1-2分钟</td>
+                <td>是</td>
             </tr>
             <tr>
-                <td>Oilseed Rape</td>
-                <td>Contains nitrates, blanching reduces the nitrate content and potential harm to the body.</td>
-                <td>1-2 minutes</td>
-                <td>Yes</td>
+                <td>油菜</td>
+                <td>含有硝酸盐，焯水有助于减少硝酸盐含量，避免对身体有害。</td>
+                <td>1-2分钟</td>
+                <td>是</td>
             </tr>
             <tr>
-                <td>Celery</td>
-                <td>Contains nitrites, blanching reduces nitrites and potential adverse effects on the body.</td>
-                <td>1-2 minutes</td>
-                <td>Yes</td>
+                <td>芹菜</td>
+                <td>含有硝酸盐，焯水可以减少硝酸盐，减少对身体的影响。</td>
+                <td>1-2分钟</td>
+                <td>是</td>
             </tr>
             <tr>
-                <td>Raw Vegetables</td>
-                <td>May contain pesticide residues or bacteria, blanching removes them effectively.</td>
-                <td>1-2 minutes</td>
-                <td>Yes</td>
+                <td>生菜</td>
+                <td>含有一定量的农药和细菌，焯水有助于去除农药残留和杀菌。</td>
+                <td>1-2分钟</td>
+                <td>是</td>
             </tr>
             <tr>
-                <td>Amaranth</td>
-                <td>Removes oxalic acid, improving taste and reducing bitterness.</td>
-                <td>1-2 minutes</td>
-                <td>Yes</td>
+                <td>苋菜</td>
+                <td>含有草酸和一些苦味物质，焯水可以去除草酸和减少苦味。</td>
+                <td>1-2分钟</td>
+                <td>是</td>
             </tr>
             <tr>
-                <td>Zucchini</td>
-                <td>Removes astringent compounds, retains nutrients while improving texture.</td>
-                <td>1-2 minutes</td>
-                <td>Yes</td>
+                <td>西葫芦</td>
+                <td>含有草酸、硝酸盐等，焯水有助于去除有害物质，并保留营养成分。</td>
+                <td>1-2分钟</td>
+                <td>是</td>
             </tr>
             <tr>
-                <td>Beans</td>
-                <td>Removes toxins, reduces bitterness and improves flavor.</td>
-                <td>1-2 minutes</td>
-                <td>Yes</td>
+                <td>豆苗</td>
+                <td>含有草酸和苦味，焯水可以去除部分毒素，去除苦味。</td>
+                <td>1-2分钟</td>
+                <td>是</td>
             </tr>
             <tr>
-                <td>Mushrooms</td>
-                <td>Removes harmful microorganisms and reduces contaminants.</td>
-                <td>1-2 minutes</td>
-                <td>Yes</td>
+                <td>蘑菇</td>
+                <td>一些野生蘑菇含有毒素，焯水可以杀死细菌，去除部分毒素和杂质。</td>
+                <td>1-2分钟</td>
+                <td>是</td>
             </tr>
             <tr>
-                <td>Eggplant</td>
-                <td>Removes bitter substances, improves texture and flavor.</td>
-                <td>1-2 minutes</td>
-                <td>Yes</td>
+                <td>茄子</td>
+                <td>含有草酸，焯水可以去除草酸成分，减少苦味并提升口感。</td>
+                <td>1-2分钟</td>
+                <td>是</td>
             </tr>
             <tr>
-                <td>Bitter Melon</td>
-                <td>Reduces bitterness and improves texture for cooking.</td>
-                <td>1-2 minutes</td>
-                <td>Yes</td>
+                <td>苦瓜</td>
+                <td>含有苦味物质，焯水可以去除一部分苦味，改善口感。</td>
+                <td>1-2分钟</td>
+                <td>是</td>
             </tr>
             <tr>
-                <td>Carrot</td>
-                <td>Removes pesticide residues, improves taste and texture.</td>
-                <td>1-2 minutes</td>
-                <td>Yes</td>
+                <td>胡萝卜</td>
+                <td>含有某些农药残留成分，焯水可去除残留并改善口感。</td>
+                <td>1-2分钟</td>
+                <td>是</td>
             </tr>
             <tr>
-                <td>Broccoli</td>
-                <td>Preserves color, texture, and nutrients while removing residues.</td>
-                <td>1-2 minutes</td>
-                <td>Yes</td>
+                <td>西兰花</td>
+                <td>西兰花色鲜绿，焯水可去除有害成分并去除农药残留。</td>
+                <td>1-2分钟</td>
+                <td>是</td>
             </tr>
             <tr>
-                <td>Bamboo Shoots</td>
-                <td>Removes bitterness and harmful substances for safer consumption.</td>
-                <td>3 minutes</td>
-                <td>Yes</td>
+                <td>花椰菜（花菜）</td>
+                <td>含有少量的草酸和硝酸盐，焯水可以减少这些有害成分，保留营养。</td>
+                <td>1-2分钟</td>
+                <td>是</td>
             </tr>
             <tr>
-                <td>White Radish</td>
-                <td>Reduces spiciness, improves taste, and removes residues.</td>
-                <td>1-2 minutes</td>
-                <td>Yes</td>
+                <td>笋</td>
+                <td>含有草酸和某些毒素，焯水可以去除毒素，减少草酸含量。</td>
+                <td>3分钟</td>
+                <td>是</td>
             </tr>
             <tr>
-                <td>Onion</td>
-                <td>Removes pungent compounds and reduces irritants.</td>
-                <td>1-2 minutes</td>
-                <td>Yes</td>
+                <td>白萝卜</td>
+                <td>焯水可以减少辛辣成分，改善口感。</td>
+                <td>1-2分钟</td>
+                <td>是</td>
+            </tr>
+            <tr>
+                <td>葱白</td>
+                <td>含有某些刺激性味道，焯水可以去除刺激成分并帮助消化。</td>
+                <td>1-2分钟</td>
+                <td>是</td>
             </tr>
         </tbody>
     </table>
 </body>
 </html>
+
 
 
 ## 待续？
