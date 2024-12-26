@@ -11,17 +11,150 @@ author: RC
 
 ### 目录
 
-- [买短袖](#买短袖)
-- [待续？](#待续)
+- [饮食](#饮食)
+- [焯水蔬菜](#焯水蔬菜)
 - [待续？](#待续)
 - [待续？](#待续)
 
 
-## 买短袖
--贴身衣物国标：GB 18401-2010
--材质：纯棉、精流棉
--纯棉T恤克重：200g~300g之间，含棉量达到70%
--领口工艺：螺纹领、二本针、三本针
+## 饮食
+体重方面：me daily intake 每日减重需维持1854卡，正常维持体重为2054卡。超出就肥
+
+### 焯水蔬菜
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vegetables Blanching Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+        th {
+            background-color: #f4f4f4;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>Vegetables Blanching Guide</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Vegetable Name</th>
+                <th>Reason for Blanching</th>
+                <th>Blanching Time</th>
+                <th>Recommended for Stir-Fry</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Spinach</td>
+                <td>Contains oxalic acid, blanching removes some of it to reduce the absorption of calcium.</td>
+                <td>1-2 minutes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Oilseed Rape</td>
+                <td>Contains nitrates, blanching reduces the nitrate content and potential harm to the body.</td>
+                <td>1-2 minutes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Celery</td>
+                <td>Contains nitrites, blanching reduces nitrites and potential adverse effects on the body.</td>
+                <td>1-2 minutes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Raw Vegetables</td>
+                <td>May contain pesticide residues or bacteria, blanching removes them effectively.</td>
+                <td>1-2 minutes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Amaranth</td>
+                <td>Removes oxalic acid, improving taste and reducing bitterness.</td>
+                <td>1-2 minutes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Zucchini</td>
+                <td>Removes astringent compounds, retains nutrients while improving texture.</td>
+                <td>1-2 minutes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Beans</td>
+                <td>Removes toxins, reduces bitterness and improves flavor.</td>
+                <td>1-2 minutes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Mushrooms</td>
+                <td>Removes harmful microorganisms and reduces contaminants.</td>
+                <td>1-2 minutes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Eggplant</td>
+                <td>Removes bitter substances, improves texture and flavor.</td>
+                <td>1-2 minutes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Bitter Melon</td>
+                <td>Reduces bitterness and improves texture for cooking.</td>
+                <td>1-2 minutes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Carrot</td>
+                <td>Removes pesticide residues, improves taste and texture.</td>
+                <td>1-2 minutes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Broccoli</td>
+                <td>Preserves color, texture, and nutrients while removing residues.</td>
+                <td>1-2 minutes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Bamboo Shoots</td>
+                <td>Removes bitterness and harmful substances for safer consumption.</td>
+                <td>3 minutes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>White Radish</td>
+                <td>Reduces spiciness, improves taste, and removes residues.</td>
+                <td>1-2 minutes</td>
+                <td>Yes</td>
+            </tr>
+            <tr>
+                <td>Onion</td>
+                <td>Removes pungent compounds and reduces irritants.</td>
+                <td>1-2 minutes</td>
+                <td>Yes</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
 
 ## 待续？
 
