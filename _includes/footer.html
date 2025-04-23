@@ -3,3 +3,40 @@
 {% if site.footer-text %}
 <p>{{ site.footer-text }}</p>
 {% endif %}
+
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('h1, h2');
+  const tocContainer = document.getElementById('toc-container');
+  let currentH1 = null;
+
+  headings.forEach(heading => {
+    if (heading.tagName === 'H1') {
+      // 创建一级标题折叠块
+      currentH1 = document.createElement('div');
+      const toggle = document.createElement('span');
+      toggle.className = 'toc-toggle';
+      toggle.textContent = '▼ ' + heading.textContent;
+      
+      // 点击切换二级目录
+      toggle.addEventListener('click', () => {
+        const content = currentH1.querySelector('.toc-level-2');
+        content.style.display = content.style.display === 'none' ? 'block' : 'none';
+        toggle.textContent = (content.style.display === 'none') ? '▶ ' + heading.textContent : '▼ ' + heading.textContent;
+      });
+
+      // 构建结构
+      const content = document.createElement('div');
+      content.className = 'toc-level-2';
+      currentH1.appendChild(toggle);
+      currentH1.appendChild(content);
+      tocContainer.appendChild(currentH1);
+    } else if (heading.tagName === 'H2' && currentH1) {
+      // 添加二级标题链接
+      const link = document.createElement('a');
+      link.href = '#' + heading.id;
+      link.textContent = heading.textContent;
+      link.className = 'toc-level-2';
+      currentH1.querySelector('.toc-level-2').appendChild(link);
+    }
+  });
+});
